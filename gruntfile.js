@@ -10,7 +10,7 @@ grunt.initConfig({
           ]
         },
         files: {
-          'dev/css/treegrid.css': 'dev/styl/treegrid.styl'
+          'dev/css/app.css': 'dev/styl/app.styl'
         },
       },
     },
